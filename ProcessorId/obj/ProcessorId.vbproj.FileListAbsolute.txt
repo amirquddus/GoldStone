@@ -1,0 +1,13 @@
+E:\Amir\Projects\ProcessorId\ProcessorId\bin\Debug\ProcessorId.exe
+E:\Amir\Projects\ProcessorId\ProcessorId\bin\Debug\ProcessorId.pdb
+E:\Amir\Projects\ProcessorId\ProcessorId\bin\Debug\ProcessorId.xml
+E:\Amir\Projects\ProcessorId\ProcessorId\obj\Debug\ResolveAssemblyReference.cache
+E:\Amir\Projects\ProcessorId\ProcessorId\obj\Debug\ProcessorId.Form1.resources
+E:\Amir\Projects\ProcessorId\ProcessorId\obj\Debug\ProcessorId.Resources.resources
+E:\Amir\Projects\ProcessorId\ProcessorId\obj\Debug\ProcessorId.vbproj.GenerateResource.Cache
+E:\Amir\Projects\ProcessorId\ProcessorId\obj\Debug\ProcessorId.exe
+E:\Amir\Projects\ProcessorId\ProcessorId\obj\Debug\ProcessorId.xml
+E:\Amir\Projects\ProcessorId\ProcessorId\obj\Debug\ProcessorId.pdb
+E:\Amir\Projects1\gitRep1\GoldStone\ProcessorId\obj\Debug\ProcessorId.exe
+E:\Amir\Projects1\gitRep1\GoldStone\ProcessorId\obj\Debug\ProcessorId.xml
+E:\Amir\Projects1\gitRep1\GoldStone\ProcessorId\obj\Debug\ProcessorId.pdb
